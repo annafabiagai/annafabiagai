@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey stranger welcome to my github page where I share my projects. 
+Hey  welcome to my github page where I share my projects. 
 
 👋 I’m Annafabia\
 👀 Computer Science, Sport, Photography, Music, Travelling\
